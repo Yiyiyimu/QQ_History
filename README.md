@@ -1,5 +1,5 @@
 [![](https://img.shields.io/github/downloads/yiyiyimu/qq_history_backup/total?style=flat-square)]()
-[![](https://img.shields.io/badge/BaiduYun--downloads-3.2k-brightgreen?style=flat-square)]()
+[![](https://img.shields.io/badge/BaiduYun--downloads-8.6k-brightgreen?style=flat-square)]()
 
 
 # QQ聊天记录导出
